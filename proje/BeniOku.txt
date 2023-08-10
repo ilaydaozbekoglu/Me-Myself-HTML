@@ -1,0 +1,23 @@
+
+Geliştirdiğim web sitesi projemin konusunu kendimle alakalı CV olarak kullanabileceğim 
+bir site olarak tercih ettim. Bu yüzden adını Me&Myself koymayı tercih ettim.
+
+Kodları yazarken istenilen gereklilikleri yerine getirdim ve takıldığım kısımlarda internetten destek aldım.
+Boostrap, Boxicons gibi sitelerden yararlanarak eklentilerde bulundum.
+
+Sitem sabit ve değişken olan kısımlardan oluşuyor. 
+Sabit kısımlarda sidebar ve navbar kullanarak sayfalar arası geçiş yapmayı kolaylaştırdım ve siteye daha güzel
+bir görsel vermiş oldum.
+Değişken kısımlarda ise sayfanın özelliğine göre eklentiler bulunuyor. Ana sayfada güncel projeleri
+gösteren boostrapin kart eklentilerini kullanırken, projeler sayfamda yine boostrapin scroolbar listemele 
+özelliğinden yararlandım. Hakkımda kısmında ise kendim hakkında bir cvde bulunabilecek temel bilgileri verdim.
+Elbette bunların şablonunu ne kadar boostrap üzerinden almış olsam da CSS ile düzenledim ve sayfama uygun hallere 
+getirerek kullandım.
+Örneğin hakkımda kısmında kullanılan butonlarda istenilen bilgiler için olan butona tıklandığı zaman javascript 
+ile metin değiştirilmesi sağlanmış, aynı zamanda sidebar kısmında da javascript ve jqueryden yararlanılmıştır.
+
+Ana sayfada bulunan kartlar bana projelerim hakkında bilgi veriyor. İncele butonuna basınca ise bizi projelerim 
+sayfasına atıyor. Bu sayfada tüm projeleri açıklama ve github linkleri ile yerleştirdim. Gitmek istediğiniz projenin
+soldaki adına tıkladığınız zaman scroll yapmadan o proje ile ilgili kısma ulaşmayı sağlıyor. 
+Hakkımda kısmında ise bana mail atabilmeyi ve linkedin hesabımı görüntülemeyi sağlayan kısa yollara ek, istenilen
+temel bilgilere de butonlara basarak ulaşabilirsiniz.
